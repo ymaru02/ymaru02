@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ymaru02/ymaru02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Donghee%20Yun🎨&fontSize=90)
+
+## 💫 t e c h 
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+<br>
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+<br>
+
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
