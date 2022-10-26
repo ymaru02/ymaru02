@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 <br>
-
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black) 
 <br>
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
