@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Donghee%20Yun🎨&fontSize=90)
 
-## 💫 t e c h 
+<div align=center>
+<h2> 💫 t e c h </h2> 
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 <br>
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 
 <br>
-
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymaru02&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymaru02%2Fhit-counter&count_bg=%23999FFA&title_bg=%23E8B4B4&icon=&icon_color=%23DE7171&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
