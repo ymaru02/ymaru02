@@ -18,17 +18,14 @@ Here are some ideas to get you started:
 <div align=center>
 <h2> 💫 t e c h </h2> 
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-<br>
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black) 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 <br>
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <br>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
-
 <br>
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymaru02&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymaru02%2Fhit-counter&count_bg=%23999FFA&title_bg=%23E8B4B4&icon=&icon_color=%23DE7171&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
