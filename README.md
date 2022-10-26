@@ -33,8 +33,9 @@ Notion: [Notion Link](https://canyon-peace-e42.notion.site/d5fb740f1b39436c8b4f0
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 <br>
 
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymaru02&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymaru02&layout=compact&theme=Most%20Used%20Languages&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-  
+ </div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymaru02%2Fhit-counter&count_bg=%23999FFA&title_bg=%23E8B4B4&icon=&icon_color=%23DE7171&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
