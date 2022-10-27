@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **Frontend Engineer**
 
 Email: dyun022@gmail.com <br>
-Notion: [Notion Link](https://canyon-peace-e42.notion.site/d5fb740f1b39436c8b4f07cfaa5bb75c)
+Notion: [donghee Notion Link](https://canyon-peace-e42.notion.site/d5fb740f1b39436c8b4f07cfaa5bb75c)
   
   
 <h3> ✨ T e c h ✨ </h3> 
