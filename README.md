@@ -4,8 +4,8 @@
 
 ### Frontend Engineer
 
-[![Email](https://img.shields.io/badge/dyun022@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:dyun022@gmail.com)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=notion&logoColor=white)](https://canyon-peace-e42.notion.site/d5fb740f1b39436c8b4f07cfaa5bb75c)
+<a href="mailto:dyun022@gmail.com"><img src="https://img.shields.io/badge/dyun022@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white" height="24"/></a>
+<a href="https://canyon-peace-e42.notion.site/d5fb740f1b39436c8b4f07cfaa5bb75c"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=notion&logoColor=white" height="24"/></a>
 
 </div>
 
@@ -17,22 +17,22 @@
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height="24"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black" height="24"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" height="24"/>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white" height="24"/>
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" height="24"/>
 
 </div>
 
@@ -88,8 +88,6 @@
 <br>
 
 <div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymaru02%2Fymaru02&count_bg=%23C5A3FF&title_bg=%23E8B4B4&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/ymaru02)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E8B4B4,50:C5A3FF,100:A8D8FF&height=120&section=footer)
 
