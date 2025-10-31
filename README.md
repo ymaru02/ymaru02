@@ -39,14 +39,16 @@
 
 **Database**
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=plastic&logo=Neo4j&logoColor=white" height="24"/>
 
 **Tools & DevOps**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=Visual-Studio-Code&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="24"/>
 
