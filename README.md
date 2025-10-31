@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E8B4B4,50:C5A3FF,100:A8D8FF&height=200&section=header&text=Donghee%20Yun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-### Frontend Engineer
+### Full Stack Engineer
 
 <a href="mailto:dyun022@gmail.com"><img src="https://img.shields.io/badge/dyun022@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white" height="24"/></a>
 <a href="https://canyon-peace-e42.notion.site/d5fb740f1b39436c8b4f07cfaa5bb75c"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=notion&logoColor=white" height="24"/></a>
@@ -46,9 +46,9 @@
 <div align="center">
 
 ```
-💡 Creating beautiful and intuitive user experiences
-🌱 Currently learning advanced React patterns & TypeScript
-🎯 Focus on writing clean, maintainable code
+💡 Building end-to-end web solutions from frontend to backend
+🌱 Currently learning advanced React patterns, TypeScript & NestJS
+🎯 Focus on writing clean, scalable, and maintainable code
 ☕ Powered by coffee and curiosity
 ```
 
@@ -60,9 +60,9 @@
 
 <div align="center">
 
-**Building scalable web applications with modern technologies**
+**Building scalable full-stack web applications with modern technologies**
 
-`React` • `Vue.js` • `TypeScript` • `Web Performance Optimization`
+`React` • `Next.js` • `NestJS` • `TypeScript` • `Node.js`
 
 </div>
 
