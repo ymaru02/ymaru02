@@ -68,11 +68,13 @@
 
 <br>
 
-## 🎨 Coding Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ymaru02&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=C5A3FF&text_color=ffffff&border_color=C5A3FF&border_radius=20" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ymaru02&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=C5A3FF&text_color=ffffff&icon_color=C5A3FF&border_color=C5A3FF&border_radius=20" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymaru02&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=C5A3FF&text_color=ffffff&border_color=C5A3FF&border_radius=20" alt="Top Languages" height="180"/>
 
 </div>
 
